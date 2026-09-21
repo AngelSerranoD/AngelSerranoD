@@ -7,7 +7,7 @@ escribo la lógica y las dejo funcionando en el dispositivo. Vengo del hardware
 —reparación de equipos, recuperación de discos, sistemas y redes— y eso me dejó
 una manía útil: mirar siempre qué pasa por debajo de la interfaz.
 
-**[Ver el portfolio con todas las demos →](https://portfolio-bay-alpha-63.vercel.app)**
+**[Ver el portfolio con todas las demos →](https://aserrano.dev)**
 
 ---
 
@@ -67,7 +67,7 @@ Idiomas: español nativo, inglés avanzado.
 
 ## Contacto
 
-[Portfolio](https://portfolio-bay-alpha-63.vercel.app) ·
+[Portfolio](https://aserrano.dev) ·
 [LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-serrano-dom%C3%ADnguez-01497a29a/) ·
 [angelsd7704@gmail.com](mailto:angelsd7704@gmail.com)
 
