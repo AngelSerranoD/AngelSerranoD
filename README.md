@@ -1,13 +1,13 @@
 # Ángel Serrano Domínguez
 
-**Desarrollador de aplicaciones multiplataforma** · Guadalajara, España
+**Desarrollador de aplicaciones multiplataforma** · Barcelona, España
 
 Construyo aplicaciones móviles y web de principio a fin: diseño la interfaz,
 escribo la lógica y las dejo funcionando en el dispositivo. Vengo del hardware
 —reparación de equipos, recuperación de discos, sistemas y redes— y eso me dejó
 una manía útil: mirar siempre qué pasa por debajo de la interfaz.
 
-**[Ver el portfolio con todas las demos →](https://portfolio-angel-serrano.vercel.app)**
+**[Ver el portfolio con todas las demos →](https://portfolio-bay-alpha-63.vercel.app)**
 
 ---
 
@@ -67,7 +67,7 @@ Idiomas: español nativo, inglés avanzado.
 
 ## Contacto
 
-[Portfolio](https://portfolio-angel-serrano.vercel.app) ·
+[Portfolio](https://portfolio-bay-alpha-63.vercel.app) ·
 [LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-serrano-dom%C3%ADnguez-01497a29a/) ·
 [angelsd7704@gmail.com](mailto:angelsd7704@gmail.com)
 
